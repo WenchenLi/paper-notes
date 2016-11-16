@@ -76,7 +76,6 @@ semi-supervised learning
 
 
 misc
-
--An Analysis of Deep Neural Network Models for Practical Applications[[OpenReview](http://openreview.net/pdf?id=Bygq-H9eg)]
+- An Analysis of Deep Neural Network Models for Practical Applications[[OpenReview](http://openreview.net/pdf?id=Bygq-H9eg)]
 
 
