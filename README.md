@@ -66,12 +66,14 @@ One-shot learning/ transfer-learning
 - Learning to Remember Rare Events[[OpenReview](http://openreview.net/pdf?id=SJTQLdqlg)]
 - Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks[[OpenReview](http://openreview.net/pdf?id=ByxpMd9lx)]
 
+
 CNN
 - LOCALLY CONNECTED CONVOLUTIONAL NEURAL
 NETWORKS ON GRAPH-STRUCTURED DATA[[OpenReview](http://openreview.net/pdf?id=BkIqod5ll)]
 - Semi-Supervised Classification with Graph Convolutional Networks[[OpenReview](http://openreview.net/pdf?id=BkIqod5ll)]
 semi-supervised learning
 -Neural Graph Machines: Learning Neural Networks Using Graphs[[OpenReview](http://openreview.net/pdf?id=SJU4ayYgl)]
+
 
 misc
 -An Analysis of Deep Neural Network Models for Practical Applications[[OpenReview](http://openreview.net/pdf?id=Bygq-H9eg)]
