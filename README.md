@@ -30,7 +30,7 @@ Reinforcement Learning:
 - Learning to Navigate in Complex Environments [[arXiv](https://arxiv.org/abs/1611.03673)]
 - Unsupervised Perceptual Rewards for Imitation Learning [[OpenReview](http://openreview.net/forum?id=Bkul3t9ee)]
 - Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic [[OpenReview](http://openreview.net/forum?id=SJ3rcZcxl)]
-
+- Neural Architecture Search with Reinforcement Learning [[OpenReview](http://openreview.net/pdf?id=r1Ue8Hcxg)]
 
 NLP
 
@@ -52,19 +52,31 @@ NLP
 - Generating Long and Diverse Responses with Neural Conversation Models[[OpenReview](http://openreview.net/pdf?id=HJDdiT9gl)]
 - A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks[[OpenReview](http://openreview.net/pdf?id=SJZAb5cel)]
 - Structured Sequence Modeling with Graph Convolutional Recurrent Networks[[OpenReview](http://openreview.net/pdf?id=S19eAF9ee)]
-- Wav2Letter: an End-to-End ConvNet-based Speech Recognition System
+- Wav2Letter: an End-to-End ConvNet-based Speech Recognition System[[OpenReview](http://openreview.net/pdf?id=ry2YOrcge)]
+- LEARNING A NATURAL LANGUAGE INTERFACE WITH NEURAL PROGRAMMER
 [[OpenReview](http://openreview.net/pdf?id=BkUDvt5gg)]
 - Dynamic Coattention Networks For Question Answering[[OpenReview](http://openreview.net/pdf?id=rJeKjwvclx)]
 - Quasi-Recurrent Neural Networks[[OpenReview](http://openreview.net/pdf?id=H1zJ-v5xl)]
 - A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks [[OpenReview](http://openreview.net/forum?id=SJZAb5cel)]
+- Adversarial Training Methods for Semi-Supervised Text Classification[[OpenReview](http://openreview.net/pdf?id=r1X3g2_xl)]
+- A Neural Knowledge Language Model[[OpenReview](http://openreview.net/pdf?id=BJwFrvOeg)]
 
-One-shot learning
+
+One-shot learning/ transfer-learning
 - Optimization as a Model for Few-Shot Learning[[OpenReview](http://openreview.net/pdf?id=rJY0-Kcll)]
 - Learning to Remember Rare Events[[OpenReview](http://openreview.net/pdf?id=SJTQLdqlg)]
+- Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks[[OpenReview](http://openreview.net/pdf?id=ByxpMd9lx)]
 
 
+CNN
+- LOCALLY CONNECTED CONVOLUTIONAL NEURAL
+NETWORKS ON GRAPH-STRUCTURED DATA[[OpenReview](http://openreview.net/pdf?id=BkIqod5ll)]
+- Semi-Supervised Classification with Graph Convolutional Networks[[OpenReview](http://openreview.net/pdf?id=BkIqod5ll)]
+semi-supervised learning
+-Neural Graph Machines: Learning Neural Networks Using Graphs[[OpenReview](http://openreview.net/pdf?id=SJU4ayYgl)]
 
 
-
+misc
+- An Analysis of Deep Neural Network Models for Practical Applications[[OpenReview](http://openreview.net/pdf?id=Bygq-H9eg)]
 
 
