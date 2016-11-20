@@ -1,6 +1,7 @@
 # paper-notes
 paper notes on machine learning
 
+- [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](notes/GNMT.md)[[arXiv](https://arxiv.org/pdf/1609.08144.pdf)]
 
 #### 2016-11 (ICLR 2017)
 
