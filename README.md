@@ -58,7 +58,7 @@ NLP
 - Wav2Letter: an End-to-End ConvNet-based Speech Recognition System[[OpenReview](http://openreview.net/pdf?id=ry2YOrcge)]
 - LEARNING A NATURAL LANGUAGE INTERFACE WITH NEURAL PROGRAMMER
 [[OpenReview](http://openreview.net/pdf?id=BkUDvt5gg)]
-- Dynamic Coattention Networks For Question Answering[[OpenReview](http://openreview.net/pdf?id=rJeKjwvclx)]
+- [Dynamic Coattention Networks For Question Answering](notes/DMN.md)[[OpenReview](http://openreview.net/pdf?id=rJeKjwvclx)]
 - [Quasi-Recurrent Neural Networks](notes/QRNN.md)[[OpenReview](http://openreview.net/pdf?id=H1zJ-v5xl)]
 - A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks [[OpenReview](http://openreview.net/forum?id=SJZAb5cel)]
 - Adversarial Training Methods for Semi-Supervised Text Classification[[OpenReview](http://openreview.net/pdf?id=r1X3g2_xl)]
