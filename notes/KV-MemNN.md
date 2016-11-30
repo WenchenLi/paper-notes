@@ -31,7 +31,7 @@ key-value transforms is
 dataset: WIKIMOVIES, WIKIQA
 
 WIKIQA:
-![wikiqa](../img/KV-MemNN_wikiqa.png)
+![wikiqa](../img/KV-MemNN_wikiQA.png)
 
 ##My questions
 1.  why number of hops can not be learned by a network? 
