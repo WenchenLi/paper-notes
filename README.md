@@ -1,6 +1,8 @@
 # paper-notes
 paper notes on machine learning
 
+- [Neural Enquirer: Learning to Query Tables with Natural Language](notes/NeuralEnquirer.md)
+
 - [Modeling documents with Generative Adversarial
 Networks](notes/ADM.md)
 
