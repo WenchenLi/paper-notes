@@ -1,5 +1,5 @@
 # paper-notes
-** paper notes will be moved to [medium](https://medium.com/@wenchenli) for easier publishing **
+**paper notes will be moved to [medium](https://medium.com/@wenchenli) for easier publishing**
 
 paper notes on machine learning
 
