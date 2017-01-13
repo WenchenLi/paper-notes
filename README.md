@@ -1,4 +1,6 @@
 # paper-notes
+** paper notes will be moved to [medium](https://medium.com/@wenchenli) for easier publishing **
+
 paper notes on machine learning
 
 - [Neural Enquirer: Learning to Query Tables with Natural Language](notes/NeuralEnquirer.md)
